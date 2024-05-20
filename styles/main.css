@@ -13,6 +13,13 @@ html, body
     scroll-behavior: smooth;
 }
 
+.button { 
+    background-color:#6082B6;
+    box shadow:0 5 px 0 #608171;
+    
+}
+
+
 .top-nav
 {
     overflow: hidden;
@@ -165,6 +172,7 @@ html, body
     padding: 100px 200px;
 
 }
+
 
 .game-font
 {
